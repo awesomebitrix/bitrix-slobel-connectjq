@@ -1,4 +1,6 @@
-bitrix-slobel-connectjq
+SloBel Connect JQuery modules
 =======================
 
-JQuery Connector
+JQuery Connector v1.0.1
+
+[Bitrix Marketplace](http://marketplace.1c-bitrix.ru/solutions/slobel.connectjq/)
